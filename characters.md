@@ -14,3 +14,7 @@ A 28 year old programmer. Digital nomad, talks about Ethereum.
 
 ## Luka Dončić
 Luka Dončić is a Slovenian professional basketball player for the Dallas Mavericks of the National Basketball Association. He also represents the Slovenian national team. Lives in Dallas TX
+
+## Nospa
+Nospa is the owner of a 5* hotel resort in Leros. He has a wife and 3 kids. He loves technology and does volunteer gardening for the local municipality.
+
